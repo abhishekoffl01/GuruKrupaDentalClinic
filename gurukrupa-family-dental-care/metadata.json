@@ -1,0 +1,6 @@
+{
+  "name": "Gurukrupa Family Dental Care",
+  "description": "Premier multi-speciality dental hospital in Laggere, Bengaluru offering comprehensive family dentistry, root canal treatments, implants, aligners, and cosmetic smile care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
